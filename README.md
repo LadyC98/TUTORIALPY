@@ -109,10 +109,10 @@ This HR dashboard offers a holistic view of the workforce, analyzing active empl
 This dashboard analyzes employee attrition at IBM. It provides a comprehensive overview of the workforce, highlighting key factors related to turnover, such as the average age of employees who leave, gender distribution, job satisfaction levels, and years of experience (total, at the company, and in the current role) segmented by attrition status. The visualizations are designed to help identify patterns and potential drivers behind employee desertion.
 ![Dashboard Overview](imagenD3.png)
 #### [Retail Sales Analytics Report BI](https://github.com/LadyC98/TUTORIALPY/blob/main/RetailSalesReport.pbix)
-
-![Page1](imagenP1.png)
-![Page2](imagenP2.png)
-![Page3](imagenP3.png)
+This Report is a Retail Sales Analytics building in the Retail Sales Analytics SQL Project (source of dataset) provides actionable insights into sales performance, customer behavior, and product optimization. The report transforms raw transaction data into strategic business intelligence across four key areas. 
+![Page1](imagenPP1.png)
+![Page2](imagenPP2.png)
+![Page3](imagenPPP3.png)
 
 
 ### Excel
