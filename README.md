@@ -124,3 +124,19 @@ This project is a spreadsheet-based inventory management system focused on the d
   ### ![Productos](imagenE1.png)
   ### ![Entradas](imagenE2.png)
   ### ![Salidas](imagenE3.png)
+  #### Project Management
+  [### Gantt Diagram] (https://github.com/LadyC98/TUTORIALPY/blob/main/diagramaGANTT_macro.xlsm)
+  **Description :** Diagrama de Gantt para el desarrollo de producto
+  **Skills**: ** VBA, Macro, Formato Condicional, Gestion de Procesos
+  ![Page1](imagenG1.png)
+
+    ### Pareto Analysis 
+  [**Analisis de Pareto Defectos en Lineas de Ensamblaje :**] (https://github.com/LadyC98/TUTORIALPY/blob/main/Pareto_DefectosLineasEnsamblaje.xlsx)
+  ![Page1](imagenG2.png)
+  ![Page1](imagenG3.png)
+  **Skills**: ** Gestion de Procesos, Gestion de Inventario
+  [**Analisis de Pareto Problemas en Servicios de emergencia 2020 :**] (https://github.com/LadyC98/TUTORIALPY/blob/main/Pareto_ServicioEmergencia2020.xlsx)
+  ![Page1](imagenG4.png)
+  ![Page1](imagenG5.png)
+  **Skills**: ** Gestion de Procesos, Gestion de Inventario
+  
